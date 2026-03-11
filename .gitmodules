@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = ./backend
+[submodule "n8n_workflows"]
+	path = n8n_workflows
+	url = ./n8n_workflows
